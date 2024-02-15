@@ -1,0 +1,24 @@
+*,*::before,*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color-scheme: light;
+}
+
+h1{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+
+small{
+    color: green;
+    font-size: 10px;
+    text-align: center;
+}
